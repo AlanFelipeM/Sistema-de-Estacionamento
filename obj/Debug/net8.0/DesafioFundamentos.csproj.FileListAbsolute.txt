@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\Alan lindo\C#\Desafios\DesafioFundamentos\bin\Debug\net8.0\DesafioFundamentos.exe
+C:\Users\Usuario\Desktop\Alan lindo\C#\Desafios\DesafioFundamentos\bin\Debug\net8.0\DesafioFundamentos.deps.json
+C:\Users\Usuario\Desktop\Alan lindo\C#\Desafios\DesafioFundamentos\bin\Debug\net8.0\DesafioFundamentos.runtimeconfig.json
+C:\Users\Usuario\Desktop\Alan lindo\C#\Desafios\DesafioFundamentos\bin\Debug\net8.0\DesafioFundamentos.dll
+C:\Users\Usuario\Desktop\Alan lindo\C#\Desafios\DesafioFundamentos\bin\Debug\net8.0\DesafioFundamentos.pdb
+C:\Users\Usuario\Desktop\Alan lindo\C#\Desafios\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Alan lindo\C#\Desafios\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Alan lindo\C#\Desafios\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Alan lindo\C#\Desafios\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Alan lindo\C#\Desafios\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.dll
+C:\Users\Usuario\Desktop\Alan lindo\C#\Desafios\DesafioFundamentos\obj\Debug\net8.0\refint\DesafioFundamentos.dll
+C:\Users\Usuario\Desktop\Alan lindo\C#\Desafios\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.pdb
+C:\Users\Usuario\Desktop\Alan lindo\C#\Desafios\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Alan lindo\C#\Desafios\DesafioFundamentos\obj\Debug\net8.0\ref\DesafioFundamentos.dll
